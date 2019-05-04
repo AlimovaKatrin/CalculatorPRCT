@@ -1,0 +1,36 @@
+.frame{
+    background: rgb(91,174,177);
+    background: -moz-radial-gradient(center, rgb(91,174,177) 0%, rgb(121,207,221) 51%, rgb(52,120,190) 100%);
+    background: -webkit-radial-gradient(center, rgb(91,174,177) 0%, rgb(121,207,221) 51%, rgb(52,120,190) 100%);
+    background: radial-gradient(ellipse at center, rgb(91,174,177) 0%, rgb(121,207,221) 51%, rgb(52,120,190) 100%);;
+    border: 5px solid #1C6EA4;
+    width: 130px;
+    height: 145px;
+    padding-left: 10px ;
+    padding-top: 10px ;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.74); 
+box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.74);
+}
+
+
+
+input.display {
+    width: 60%;
+    height: 23px;
+    text-align: right;
+    border-radius: 10px; 
+}
+#cancel{
+    width: 26px;
+    height: 28px;
+    margin-left: 10px;
+    background-color: rgb(190, 50, 50);
+    border-radius: 10px; 
+}
+button{
+    width: 26.57px;
+    height: 28px;
+    border-radius: 10px;
+    background-color: rgba(58,139,87,0.48);
+    
+}
